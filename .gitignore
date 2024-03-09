@@ -1,0 +1,6 @@
+run/
+run-data/
+build/
+.gradle/
+generated/
+test/
